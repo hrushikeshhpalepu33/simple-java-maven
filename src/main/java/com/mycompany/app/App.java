@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World - Jenkins Webhook Test!";
+    private static final String MESSAGE = "Hello World - Email Notification Test!";
 
     public App() {}
 
